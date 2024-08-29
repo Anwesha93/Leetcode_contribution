@@ -1,2 +1,2 @@
 # Leetcode_contribution
-Leetcode solutions where the All edge cases are overviewed carefully
+Leetcode solutions where the all edge cases are overviewed carefully
